@@ -6,5 +6,3 @@ This is the first edit to the readme.md file
 Adding some more text - another update
 
 Edited from VS Code
-
-Created a new branch!
